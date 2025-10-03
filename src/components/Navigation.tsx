@@ -18,8 +18,11 @@ const Navigation = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link to="/" className="text-2xl font-bold bg-[var(--gradient-health)] bg-clip-text text-transparent">
-            JIFU
+          <Link
+            to="/"
+            className="text-2xl font-extrabold bg-gradient-to-r from-blue-500 to-teal-400 bg-clip-text text-transparent"
+          >
+            JGEO
           </Link>
 
           {/* Desktop Navigation */}
