@@ -72,12 +72,12 @@ const Index = () => {
         
         <div className="container mx-auto relative z-10 pt-16">
           <div className="max-w-3xl">
-            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 sm:mb-6 leading-tight">
               გარდაქმენი შენი <br />
               ჯანმრთელობა და <br />
               <span className="text-accent">შემოსავალი</span>
             </h1>
-            <p className="text-xl text-white/90 mb-8 leading-relaxed">
+            <p className="text-base sm:text-lg md:text-xl text-white/90 mb-6 sm:mb-8 leading-relaxed">
               შემოგვიერთდი გლობალურ საზოგადოებაში, რომელიც აძლევს ხალხს ძალას ჯანმრთელობის, 
               ენერგიისა და ფინანსური თავისუფლების მისაღწევად
             </p>
